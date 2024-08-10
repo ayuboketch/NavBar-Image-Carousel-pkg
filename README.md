@@ -1,4 +1,4 @@
-![Uploading Screenshot 2024-08-10 at 13.38.53.png…]()
+<img width="1679" alt="Screenshot 2024-08-10 at 13 38 53" src="https://github.com/user-attachments/assets/3bfdbddb-b76d-4583-8aba-a8637fce67a2">
 
 # NavBar-Image-Carousel-pkg
 This is a NavBar and Image carousel using JavaScript, Css and HTML. Something simple for your site ready to be imported. 
