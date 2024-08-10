@@ -1,17 +1,23 @@
+/*!*****************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/style.css ***!
+  \*****************************************************************/
+@import url(https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap);
+/*!*********************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/style.css (1) ***!
+  \*********************************************************************/
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 @font-face {
     font-family: "Montserrat", sans-serif;
-    src: url("./Assets/Montserrat/static/Montserrat-Regular.ttf");
-    src: url("./Assets/Montserrat/static/Montserrat-Medium.ttf");
-    src: url("./Assets/Montserrat/static/Montserrat-SemiBold.ttf");
-    src: url("./Assets/Montserrat/static/Montserrat-Bold.ttf");
-    src: url("./Assets/Montserrat/static/Montserrat-ExtraBold.ttf");
-    src: url("./Assets/Montserrat/static/Montserrat-Black.ttf");
+    src: url(24785cc015b27a3e964b.ttf);
+    src: url(b8c6753baa964ccac1ba.ttf);
+    src: url(93b37a465fc4ec0d0415.ttf);
+    src: url(50f0257aa1e905f4bfaf.ttf);
+    src: url(6c8b198832c88c649faa.ttf);
+    src: url(beacc26b4bbaaf608567.ttf);
 }
 body {
     min-height: 100vh;
@@ -19,7 +25,7 @@ body {
     margin: 0;
     border: 0;
     font-family: "Montserrat", sans-serif;
-    background-image: url("./Assets/Background2.jpg");
+    background-image: url(7f351444e5dc1ca6a406.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -126,7 +132,7 @@ nav li:first-child {
 /* carousel */
 .carousel {
     height: 100vh;
-    margin-top: -50px;
+    margin-top: +20px;
     width: 100vw;
     overflow: hidden;
     position: relative;
@@ -410,3 +416,4 @@ nav li:first-child {
         font-size: 30px;
     }
 }
+
