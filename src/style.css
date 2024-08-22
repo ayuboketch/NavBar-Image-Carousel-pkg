@@ -248,7 +248,7 @@ nav li:first-child {
     transition: 0.5s;
 }
 .arrows button:hover {
-    background-color: #fff;
+    background-color: #201e1e;
     color: #000;
 }
 
